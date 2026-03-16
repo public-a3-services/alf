@@ -17,3 +17,9 @@ github1:
   is_project_page: false
 include:
   - _media
+
+github_username: 
+twitter_username:
+email:
+# A ak nechceš ten feed:
+plugins: [] 
