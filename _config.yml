@@ -1,4 +1,5 @@
 
 title: ALF – Auto Load Form
+theme: jekyll-theme-slate
 include:
   - _media
