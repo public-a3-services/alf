@@ -1,3 +1,17 @@
+<style>
+  .site-title::before {
+    content: "";
+    display: inline-block;
+    width: 48px;
+    height: 48px;
+    vertical-align: middle;
+    margin-right: 10px;
+    background: url('{{ site.baseurl }}/_media/alf-128.png') no-repeat center;
+    background-size: contain;
+  }
+</style>
+
+
 # ALF – Auto Load Form
 
 - home: <https://public-a3-services.github.io/alf/>
