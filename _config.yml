@@ -4,7 +4,7 @@ title: Auto Load Forms
 description: "Automatically fills and manages your forms"
 theme: minima
 show_downloads1: false
-github:
+github1:
   is_project_page: false
 include:
   - _media
