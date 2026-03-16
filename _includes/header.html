@@ -1,13 +1,12 @@
 <header class="site-header">
   <div class="wrapper">
-    {% if site.logo %}
-      <img src="{{ site.logo | relative_url }}" 
-           alt="Logo" 
-           style="height: 48px; width: 48px; vertical-align: middle; margin-right: 10px;">
-    {% endif %}
-    
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
-      {{ site.title }}
+        {% if site.logo %}
+        <img src="{{ site.logo | relative_url }}" 
+            alt="Logo" 
+            style="height: 48px; width: 48px; vertical-align: middle; margin-right: 10px;">
+        {% endif %}
+        {{ site.title }}
     </a>
   </div>
 </header>
