@@ -12,7 +12,7 @@
 </style>
 <style>
   /* Skryje ľavý stĺpec v pätke (názov a popis) */
-  .footer-col-1 { display: none !important; }
+  .social-links { display: none !important; }
   
   /* Skryje pravý stĺpec v pätke (sociálne siete/odkazy) */
   #.footer-col-2 { display: none !important; }
