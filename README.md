@@ -1,7 +1,7 @@
 <center>
 
 
-![](_media/alf-128.png)<br>`Automatically fills and manages your forms`
+![](/_media/alf-128.png)<br>`Automatically fills and manages your forms`
 </center>
 
 ![](/_media/alf-128.png)<br>`Automatically fills and manages your forms`
