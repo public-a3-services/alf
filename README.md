@@ -1,7 +1,4 @@
----
-layout: default
-title: ALF – Auto Load Form
----
+
 <center>
 
 
