@@ -2,6 +2,7 @@
 logo: "/_media/alf-128.png"
 title: Auto Load Forms
 footer: "Automatically fills and manages your forms © 2026 by chzb"
+
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
@@ -12,6 +13,3 @@ minima:
 include:
   - _media
 
-header_pages: []
-footer_show_posts: false
-social_links: []
