@@ -1,4 +1,17 @@
 <style>
+  body { 
+    background: #0d1117; color: #c9d1d9; 
+    font-family: sans-serif; padding: 5% 10%; 
+    max-width: 1200px; margin: 0 auto; 
+  }
+  a { color: #58a6ff; }
+  code { background: #161b22; padding: 5px; border-radius: 5px; }
+</style>
+
+# <img src="_media/alf-128.png" width="40" style="vertical-align:middle"> ALF
+
+
+<style>
   header h1::before {
     content: "";
     display: inline-block;
