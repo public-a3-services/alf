@@ -4,4 +4,4 @@ title: "Môj vlastný názov"
 ---
 baseurl: "/alf"
 include:
-  - _media
+  - alf/_media
