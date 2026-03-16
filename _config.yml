@@ -2,7 +2,7 @@
 favicon: "/_media/alf-128.png"
 logo: "/_media/alf-128.png"
 title: Alf-in3 - Automated Logic Framework Intelligent & Efficient
-footer: "Automatically fills and manages your forms • © 2026 by chzb • Powered by a3-services"
+footer: "Alf-in3 • Automated Logic Framework Intelligent & Efficient • © 2026 by chzb • Powered by a3-services"
 
 remote_theme: jekyll/minima
 plugins:
