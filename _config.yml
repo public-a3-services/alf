@@ -2,6 +2,6 @@
 layout: default
 title: "Môj vlastný názov"
 ---
-baseurl1: "/alf"
+baseurl: "/alf"
 include:
   - _media
