@@ -1,7 +1,3 @@
----
-layout: default
-title: "Môj vlastný názov"
----
-baseurl1: "/alf"
+
 include:
   - _media
