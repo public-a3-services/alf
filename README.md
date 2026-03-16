@@ -2,7 +2,7 @@
 
 - home: <https://public-a3-services.github.io/alf-in3/>
 - chrome-extension: <https://public-a3-services.github.io/alf-in3/release/alf-in3.zip>
-- version: 
+- version: `0.0.0-25-gc3793b8`
 
 ## 🤖 Alf-in3 Robot
 
