@@ -12,7 +12,7 @@
 
 ## 🌐 A₃ url
 
-- https://a3.ugkk.dev
+- <https://a3.ugkk.dev>
 
 ## ⚙️ Source
 - platform: <https://github.com/platform-a3-services/alf-in3>
