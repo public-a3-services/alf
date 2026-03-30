@@ -1,7 +1,7 @@
 Add-Type -AssemblyName System.Windows.Forms
 [System.Windows.Forms.Application]::EnableVisualStyles()
 
-$EXTENSION_URL_BASE = "https://public-a3-services.github.io/alf-in3"
+$EXTENSION_URL_BASE = "https://pages-a3-services.github.io/alf-in3"
 $EXTENSION_URL_ZIP  = "/release/alf-in3.zip"
 
 # Build the full ZIP download URL
