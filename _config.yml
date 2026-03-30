@@ -2,7 +2,7 @@
 favicon: "/_media/alf-128.png"
 logo: "/_media/alf-128.png"
 title: Alf-in₃ - Automated Logic Framework Intelligent & Efficient
-footer: "<a href='https://public-a3-services.github.io/alf-in3' target='_blank'>Alf-in₃</a> • Automated Logic Framework Intelligent & Efficient • © 2026 by chzb • Powered by <a href='https://a3.services' target='_blank'>a3.services</a>"
+footer: "<a href='https://public-a3-services.github.io/alf-in3'>Alf-in₃</a> • Automated Logic Framework Intelligent & Efficient • © 2026 by <a href='https://chlapcizbystrice.sk' target='_blank'>chzb</a> • Powered by <a href='https://a3.services' target='_blank'>a3.services</a>"
 
 remote_theme: jekyll/minima
 plugins:
