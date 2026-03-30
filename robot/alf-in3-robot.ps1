@@ -50,7 +50,7 @@ foreach ($var in $envVars) {
 # Show MessageBox with path and all variables
 [System.Windows.Forms.MessageBox]::Show(
     "The Alf-in3 is unpacked into:`n`n$unpackDir`n`n$allVarsText`nThe path has been copied to clipboard.",
-    "Alf-in3 Rotot 1.0",
+    "Alf-in3 Rotot 1.1.1",
     [System.Windows.Forms.MessageBoxButtons]::OK,
     [System.Windows.Forms.MessageBoxIcon]::Information
 )
